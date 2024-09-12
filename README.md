@@ -1,5 +1,9 @@
 # Project Description: Student Management System
 Student Management System (SMS) is an application designed to manage student records efficiently. It provides functionalities for administrators and educators to add, update, delete, and view student information. The application aims to simplify student management tasks and provide a user-friendly interface for interacting with student data.
+# project live: 
+
+https://github.com/user-attachments/assets/53c9def8-6eb9-477b-8a8e-4b8747ef1338
+
 
 # Key Features
 Student Listing
