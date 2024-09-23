@@ -6,7 +6,7 @@ https://github.com/user-attachments/assets/53c9def8-6eb9-477b-8a8e-4b8747ef1338
 
 
 # Key Features
-Student Listing
+Student Listing 
 
 View a list of all students.
 Display student information including first name, last name, and email.
