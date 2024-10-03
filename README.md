@@ -4,7 +4,7 @@ Student Management System (SMS) is an application designed to manage student rec
 
 https://github.com/user-attachments/assets/53c9def8-6eb9-477b-8a8e-4b8747ef1338
 
-
+ 
 # Key Features
 Student Listing 
 
